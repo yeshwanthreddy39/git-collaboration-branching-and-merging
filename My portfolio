@@ -1,1 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>About Me</h1>
+  <img src="your-photo.jpg" alt="A photo of me">
+  <h2>Your Name</h2>
+  <p>Education: Your Degree, University</p>
+  <p>Interests: Your hobbies and passions</p>
 
+  <h1>My Projects</h1>
+  <h3>Project 1: my portfolio web page Name</h3>
+  <p>Description: A brief description of this project.</p>
+  <h3>Project 2: Another mentee Project</h3>
+  <p>Description: A simple explanation of this project's purpose.</p>
+  <h3>Project 3: bus tracking Project</h3>
+  <p>Description: A detailed description of the last project.</p>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>About Me</h1>
+  <img src="your-photo.jpg" alt="A photo of me">
+  <h2>Your Name</h2>
+  <p>Education: Your Degree, University</p>
+  <p>Interests: Your hobbies and passions</p>
+
+  <h1>My Projects</h1>
+  <h3>Project 1: Dummy Project Name</h3>
+  <p>Description: A brief description of this dummy project.</p>
+  <h3>Project 2: Another Dummy Project</h3>
+  <p>Description: A simple explanation of this project's purpose.</p>
+  <h3>Project 3: Final Dummy Project</h3>
+  <p>Description: A detailed description of the last dummy project.</p>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>About Me</h1>
+  <img src="your-photo.jpg" alt="A photo of me">
+  <h2>Your Name</h2>
+  <p>Education: Your Degree, University</p>
+  <p>Interests: Your hobbies and passions</p>
+
+  <h1>My Projects</h1>
+  <h3>Project 1:  Project Name</h3>
+  <p>Description: A brief description of this dummy project.</p>
+  <h3>Project 2: Another  Project</h3>
+  <p>Description: A simple explanation of this project's purpose.</p>
+  <h3>Project 3: Final  Project</h3>
+  <p>Description: A detailed description of the last  project.</p>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>About Me</h1>
+  <img src="your-photo.jpg" alt="A photo of me">
+  <h2>Your Name</h2>
+  <p>Education: Your Degree, University</p>
+  <p>Interests: Your hobbies and passions</p>
+
+  <h1>My Projects</h1>
+  <h3>Project 1: Dummy Project Name</h3>
+  <p>Description: A brief description of this project.</p>
+  <h3>Project 2: Another Project</h3>
+  <p>Description: A simple explanation of this project's purpose.</p>
+  <h3>Project 3: Final  Project</h3>
+  <p>Description: A detailed description of the last dummy project.</p>
+</body>
+</html>
